@@ -1,0 +1,6 @@
+@TechStoreAPI_MariajosePino_HostAddress = http://localhost:5032
+
+GET {{TechStoreAPI_MariajosePino_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
